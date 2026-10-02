@@ -22,7 +22,7 @@ choose-ai
 Then type `/login` to sign in with Google in your browser. The terminal unlocks with a paid Choose AI plan.
 
 - **Ask for things:** type what you want done in plain words.
-- **Commands:** `/help` lists all of them, including `/model`, `/effort`, `/review`, `/code-review`, `/undo` and `/usage`.
+- **Commands:** type `/` and a menu shows every command with what it does; each letter narrows it. ↑↓ choose, Tab completes, Enter runs. `/help` shows them grouped.
 - **Attach files:** `@path/to/file` sends that file with your prompt.
 - **Stop or leave:** Ctrl-C stops a reply, and `/exit` leaves.
 
